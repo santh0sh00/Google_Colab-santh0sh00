@@ -142,5 +142,5 @@ Convert important notebooks into end-to-end mini projects
 
 📌 Author
 
-Santhosh Kumar Gudla
+Santhosh Kumar Gudla-
 Aspiring Data Scientist | Python & ML Enthusiast
